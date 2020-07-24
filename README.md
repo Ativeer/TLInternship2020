@@ -38,6 +38,13 @@ Points:
 
 Keep it simple. Download this file, and execute it on command line or any Python supported IDE.
 
+#### Final Output:
+1. 'https://www.fda.gov/drugs/drug-safety-and-availability/fda-cautions-against-use-hydroxychloroquine-or-chloroquine-covid-19-outside-hospital-setting-or?fbclid=IwAR1-PZHsA-1A0tRm_ywuoe6c69_2--rqJoGVOX7wcdNRqSQBvi-rrajxF5o',
+
+2. 'https://www.fda.gov/drugs/drug-safety-and-availability/fda-cautions-against-use-hydroxychloroquine-or-chloroquine-covid-19-outside-hospital-setting-or?utm_campaign',
+
+3. 'https://www.fda.gov/drugs/drug-safety-and-availability/fda-cautions-against-use-hydroxychloroquine-or-chloroquine-covid-19-outside-hospital-setting-or?utm_source=042720-RC20%20COVID%20FDA%20Issues%20New%20Guidance&utm_medium=email&utm_campaign=RC20'
+
 #### Scope of Improvement:
-As of now, the code will consider only one paragraph for every link to figure out if the article supports the use of Hydroxychloroquine.
-Also, scrapping part is too long. This can be reduced by the proper use of multithreading.
+
+As of now, the code will consider only one paragraph for every link to figure out if the article supports the use of Hydroxychloroquine. Also, scrapping part is too long. This can be reduced by the proper use of multithreading.
