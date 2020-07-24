@@ -26,13 +26,13 @@ If the search word appeared in the raw html text, I scrape through all the parag
 
 Points:
 
-*"key_index" : ["2020-29", "2020-24","2020-16","2020-10", "2020-05"],
+"key_index" : ["2020-29", "2020-24","2020-16","2020-10", "2020-05"],
 "website" : "fda.gov/drugs/\*",
 "dataframe_path" : "output.csv",
 "search_word" : "hydroxychloroquine",
 "positive_threshold" : 0.2,
 "threads" : 6
-*
+
 
 #### How to run:
 
